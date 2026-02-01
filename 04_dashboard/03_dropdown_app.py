@@ -1,8 +1,3 @@
-"""
-@author: krakowiakpawel9@gmail.com
-@site: e-smartdata.org
-"""
-
 import dash
 from dash import dcc, html
 import plotly.graph_objects as go
